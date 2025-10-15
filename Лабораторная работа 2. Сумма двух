@@ -18,3 +18,4 @@ class TestTwoSum(unittest.TestCase):
     
     def test_example3(self):
         self.assertEqual(twoSum([3,3], 6), [0,1]) 
+$ git rm file.txt
