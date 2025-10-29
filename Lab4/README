@@ -15,9 +15,9 @@
 
 Внешние зависимости не требуются. Используется только стандартная библиотека Python:
 
-- `collections.deque`
-- `typing`
-- `unittest`
+`collections.deque`
+`typing`
+`unittest`
 
 ## Использование
 
